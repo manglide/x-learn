@@ -1,0 +1,10 @@
+Errors are values
+Errors are values
+Errors are values
+Errors are values
+Errors are values
+Errors are values
+Documentation is for users.
+A little copying is better than a little dependency.
+Clear is better than clever.
+Concurrency is not parallelism.
